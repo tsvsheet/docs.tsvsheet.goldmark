@@ -1,5 +1,5 @@
 ---
-title: Home
+title: tsvsheet.goldmark
 ---
 
 **tsvsheet.goldmark** is a [goldmark](https://github.com/yuin/goldmark) extension that renders [tsvsheet](https://github.com/tsvsheet/tsvsheet) code blocks as computed tables: a fenced ` ```tsvsheet ` block in markdown is evaluated by the [go-tsvsheet](https://github.com/tsvsheet/go-tsvsheet) engine and rendered in place, so documents show results, not formulas.
